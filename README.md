@@ -1,0 +1,1 @@
+Research notes for temporal analysis in RL for robotics applications. 
